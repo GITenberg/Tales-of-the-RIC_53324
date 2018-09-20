@@ -1,12 +1,17 @@
 _repo: Tales-of-the-RIC_53324
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Unknown
     gutenberg_agent_id: '49'
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+covers:
+- cover_type: archival
+  image_path: 53324-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53324#Tales-of-the-RIC
 gutenberg_issued: '2016-10-19'
 gutenberg_type: Text
 identifiers:
