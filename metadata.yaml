@@ -1,0 +1,29 @@
+_repo: Tales-of-the-RIC_53324
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2016-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- History -- 1910-1921'
+- !lcc 'DA'
+- !lcsh 'Ireland. Royal Irish Constabulary'
+- GITenberg
+tableOfContents: The informer -- On the run -- The landing of arms -- The Red Cross
+  -- The R.M. -- An outlaw -- The stranger within the gates -- Mr Briggs' island --
+  The reward of loyalty -- Poteen -- The mayor's conscience -- A brutal murder --
+  Seal Island -- A family affair -- The American nurse -- Father John -- The bog cemetery
+  -- A Jew in Gaelic clothing -- Mountain warfare -- The great round up -- The truce.
+title: Tales of the R.I.C.
+url: http://www.gutenberg.org/ebooks/53324
